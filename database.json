@@ -1,0 +1,102 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "fullName": "Dion Stoade",
+      "email": "dstoade0@cornell.edu",
+      "isStaff": false,
+      "cohort": 1
+    },
+    {
+      "id": 2,
+      "fullName": "Windy Thorneloe",
+      "email": "wthorneloe1@usa.gov",
+      "isStaff": false,
+      "cohort": 2
+    },
+    {
+      "id": 3,
+      "fullName": "Hillie Phillpotts",
+      "email": "hphillpotts2@rakuten.co.jp",
+      "isStaff": true,
+      "cohort": 3
+    },
+    {
+      "id": 4,
+      "fullName": "Helenelizabeth Passfield",
+      "email": "hpassfield7@netvibes.com",
+      "isStaff": true,
+      "cohort": 4
+    },
+    {
+      "email": "fslator8@51.la",
+      "fullName": "Franchot Slator",
+      "cohort": 5,
+      "id": 5
+    }
+  ],
+  "allPosts": [
+    {
+      "id": 1,
+      "topicId": 1,
+      "title": "title1",
+      "body": "body1",
+      "date": "date1",
+      "userId": "4",
+      "likes": "10"
+    },
+    {
+      "id": 2,
+      "topicId": 2,
+      "title": "title2",
+      "body": "body2",
+      "date": "date2",
+      "userId": "3",
+      "likes": "5"
+    },
+    {
+      "id": 3,
+      "topicId": 3,
+      "title": "title3",
+      "body": "body3",
+      "date": "date3",
+      "userId": "2",
+      "likes": "6"
+    },
+    {
+      "id": 4,
+      "topicId": 4,
+      "title": "title4",
+      "body": "body4",
+      "date": "date4",
+      "userId": "1",
+      "likes": "3"
+    },
+    {
+      "userId": 4,
+      "title": "title5",
+      "body": "body5",
+      "topicId": 1,
+      "dateCompleted": "2024-06-03T14:52:32.890Z",
+      "id": 5
+    }
+  ],
+  "topics": [
+    {
+      "id": 1,
+      "name": "Sterling Silver"
+    },
+    {
+      "id": 2,
+      "name": "14K Gold"
+    },
+    {
+      "id": 3,
+      "name": "24K Gold"
+    },
+    {
+      "id": 4,
+      "name": "Platinum"
+    }
+  ]
+}
